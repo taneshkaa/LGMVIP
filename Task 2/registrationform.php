@@ -222,17 +222,6 @@
 <hr>
 <h2 style="color: white; size: 50px;" > Enrolled Students... </h2>
   <br>
-  <b style="color: grey;"> Student Name: <?php echo "Riya" ?> </b> <br>
-  <b style="color: grey;"> Email: <?php echo "riyaa@gmail.com" ?> </b> <br>
-  <b style="color: grey;"> Mobile Number: <?php echo "9873452134" ?> </b> <br>
-  <b style="color: grey;"> Address: <?php echo "Banglore, India" ?> </b> <br>
-  <b style="color: grey;"> Gender: <?php echo "female" ?> </b> <br>
-  <b style="color: grey;"> Skills: <?php echo "PHP" ?> </b> <br>
-  <b style="color: grey;"> Course Enrolled: <?php echo "Full Stack Development" ?> </b> <br>
-  <br>
-  <hr>
-  <hr>
-  <br>
   <b style="color: grey;"> Student Name: <?php echo $_POST['n']; ?> </b> <br>
   <b style="color: grey;"> Email: <?php echo $_POST['e']; ?> </b> <br>
   <b style="color: grey;"> Mobile Number: <?php echo $_POST['m']; ?> </b> <br>
